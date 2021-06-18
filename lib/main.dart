@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 
+FirebaseAnalytics analytics = FirebaseAnalytics();
 void main() {
-  
   runApp(MyApp());
 }
 
@@ -58,6 +59,10 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
     });
+  }
+
+  _analyticsEvent() {
+    analytics.logAppOpen();
   }
 
   @override
