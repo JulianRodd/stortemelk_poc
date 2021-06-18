@@ -61,9 +61,6 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  _analyticsEvent() {
-    analytics.logAppOpen();
-  }
 
   @override
   Widget build(BuildContext context) {
