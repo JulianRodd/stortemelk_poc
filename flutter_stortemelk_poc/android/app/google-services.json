@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21973880110",
+    "project_id": "stortemelkpoc",
+    "storage_bucket": "stortemelkpoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21973880110:android:73d040cd59846513a3febf",
+        "android_client_info": {
+          "package_name": "com.stortemalk.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21973880110-mrceo8n38bffsaren4fc8c0su8181j0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stortemalk.poc",
+            "certificate_hash": "895d285f4a6787c73dc18b996fa220ac699e0c7d"
+          }
+        },
+        {
+          "client_id": "21973880110-n4db5gueej9mpnfagshjttujmct4pbja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBrewVyKGwSZ2PWszn2di9P8F3JT6bnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21973880110-n4db5gueej9mpnfagshjttujmct4pbja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

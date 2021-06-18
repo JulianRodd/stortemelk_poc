@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>21973880110-mcocj7jeh1t1o2jr6usgijcfqfirva3s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.21973880110-mcocj7jeh1t1o2jr6usgijcfqfirva3s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>21973880110-mrceo8n38bffsaren4fc8c0su8181j0m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLO5o09S-fC4mXprp1eRKSQdzXRaBtdxg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>21973880110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stortemelk.poc</string>
+	<key>PROJECT_ID</key>
+	<string>stortemelkpoc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stortemelkpoc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:21973880110:ios:7ae79db25cdcf39ba3febf</string>
+</dict>
+</plist>
